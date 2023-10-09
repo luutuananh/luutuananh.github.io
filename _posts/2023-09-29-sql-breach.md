@@ -1,7 +1,7 @@
 ---
 title: Microsoft warns of cyber attacks attempting to breach cloud via SQL Server instance
 author: Anh Luu
-date: 2022-09-29 00:34:00 +0800
+date: 2023-09-29 00:34:00 +0800
 categories: [Blogging]
 tags: [microsoft]
 ---
